@@ -1,0 +1,1 @@
+web: gunicorn gestion_stage_service.wsgi
